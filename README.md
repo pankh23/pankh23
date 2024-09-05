@@ -1,5 +1,10 @@
-## Hi there 👋
+## 👋 Hi there I'm Pankhuri Khurana a passionate Computer Science student at Chitkara University, exploring the world of technology and innovation.
 
+- 💻 Coding enthusiast with a keen interest in web development, algorithms, and problem-solving.
+  
+- 🤝 Let's connect! Reach out to collaborate or discuss anything tech-related.
+
+- 📫 How to reach me: pankhurikhurana23@gmail.com
 <!--
 **pankh23/pankh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
