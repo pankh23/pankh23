@@ -1,4 +1,4 @@
-## 👋 Hi there I'm Pankhuri Khurana a passionate Computer Science student at Chitkara University, exploring the world of technology and innovation.
+## 👋 Hi there I'm Pankhuri Khurana a passionate Computer Science student, exploring the world of technology and innovation.
 
 - 💻 Coding enthusiast with a keen interest in web development, algorithms, and problem-solving.
   
