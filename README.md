@@ -4,16 +4,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankh23&label=Profile%20views&color=0e75b6&style=flat" alt="pankh23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankh23" alt="pankh23" /></a> </p>
-
-- 🔭 I’m currently working on **full-stack development**
-
-- 🌱 I’m currently learning **AI & Full-Stack Development**
-
-- 👯 I’m looking to collaborate on **full stack projects**
-
-- 💬 Ask me about **express, node.js, react**
-
-- 📫 How to reach me **pankhurikhurana23@gmail.com**
+<table>
+  <tr>
+    <td>
+      🔭 I’m currently working on **full-stack development** <br>
+      🌱 I’m currently learning **AI & Full-Stack Development** <br>
+      👯 I’m looking to collaborate on **full stack projects** <br>
+      💬 Ask me about **express, node.js, react** <br>
+      📫 How to reach me **pankhurikhurana23@gmail.com**
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/736x/30/a0/37/30a03741515fe8103384dc219cf51cef.jpg" width="200"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
