@@ -1,23 +1,35 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+22288
+Fork on GitHub
+7225
+
+back to edit
+
+copied
+
+download markdown
+
+download backup
+
+markdown
 <h1 align="center">Hi 👋, I'm Pankhuri Khurana</h1>
 <h3 align="center">An Aspiring Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankh23&label=Profile%20views&color=0e75b6&style=flat" alt="pankh23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankh23" alt="pankh23" /></a> </p>
-<table>
-  <tr>
-    <td>
-      🔭 I’m currently working on **full-stack development** <br>
-      🌱 I’m currently learning **AI & Full-Stack Development** <br>
-      👯 I’m looking to collaborate on **full stack projects** <br>
-      💬 Ask me about **express, node.js, react** <br>
-      📫 How to reach me **pankhurikhurana23@gmail.com**
-    </td>
-    <td>
-      <img src="https://i.pinimg.com/736x/30/a0/37/30a03741515fe8103384dc219cf51cef.jpg" width="200"/>
-    </td>
-  </tr>
-</table>
+
+- 🔭 I’m currently working on **full-stack development**
+
+- 🌱 I’m currently learning **AI & Full-Stack Development**
+
+- 👯 I’m looking to collaborate on **full stack projects**
+
+- 💬 Ask me about **express, node.js, react**
+
+- 📫 How to reach me **pankhurikhurana23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +46,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankh23&show_icons=true&locale=en" alt="pankh23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankh23&" alt="pankh23" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
