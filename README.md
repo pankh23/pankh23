@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22288
-Fork on GitHub
-7225
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Pankhuri Khurana</h1>
 <h3 align="center">An Aspiring Software Engineer from India</h3>
 
@@ -47,21 +31,6 @@ markdown
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankh23&" alt="pankh23" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
 More
 Github
 Releases
