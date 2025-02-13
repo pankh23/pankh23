@@ -1,18 +1,18 @@
 <h3 align="center">An Aspiring Software Engineer from India</h3>
 
 <p align="center">
-  <img src="im" alt="" width="100%">
+  <img src="im.png" alt="" width="100%">
 </p>
+<div align="left">
+  
+- 🔭 I’m currently working on **full-stack development**  
+- 🌱 I’m currently learning **AI & Full-Stack Development**  
+- 👯 I’m looking to collaborate on **full stack projects**  
+- 💬 Ask me about **express, node.js, react**  
+- 📫 How to reach me **pankhurikhurana23@gmail.com**  
 
-- 🔭 I’m currently working on **full-stack development**
-
-- 🌱 I’m currently learning **AI & Full-Stack Development**
-
-- 👯 I’m looking to collaborate on **full stack projects**
-
-- 💬 Ask me about **express, node.js, react**
-
-- 📫 How to reach me **pankhurikhurana23@gmail.com**
+</div>  
+<img align="right" src="girl.jpg" alt="My Image" width="200">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
