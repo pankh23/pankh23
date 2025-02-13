@@ -1,12 +1,8 @@
 <h3 align="center">An Aspiring Software Engineer from India</h3>
 
 <p align="center">
-  <img src="image.png" alt="" width="100%">
+  <img src="im" alt="" width="100%">
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankh23&label=Profile%20views&color=0e75b6&style=flat" alt="pankh23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankh23" alt="pankh23" /></a> </p>
 
 - 🔭 I’m currently working on **full-stack development**
 
