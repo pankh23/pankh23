@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="blob:https://www.imagine.art/e5f2d477-5a8b-4a4f-a2aa-e7a703c2744d" alt="Banner Image" width="100%">
+  <img src="https://www.imagine.art/e5f2d477-5a8b-4a4f-a2aa-e7a703c2744d" alt="Banner Image" width="100%">
 </p>
 
 <h3 align="center">An Aspiring Software Engineer from India</h3>
