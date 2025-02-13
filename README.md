@@ -1,8 +1,8 @@
+<h3 align="center">An Aspiring Software Engineer from India</h3>
+
 <p align="center">
   <img src="image.png" alt="" width="100%">
 </p>
-
-<h3 align="center">An Aspiring Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankh23&label=Profile%20views&color=0e75b6&style=flat" alt="pankh23" /> </p>
 
