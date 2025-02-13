@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pankhuri Khurana</h1>
+<p align="center">
+  <img src="blob:https://www.imagine.art/e5f2d477-5a8b-4a4f-a2aa-e7a703c2744d" alt="Banner Image" width="100%">
+</p>
+
 <h3 align="center">An Aspiring Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankh23&label=Profile%20views&color=0e75b6&style=flat" alt="pankh23" /> </p>
