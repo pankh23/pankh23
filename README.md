@@ -1,3 +1,5 @@
+<img align="right" width="400" src="[https://in.pinterest.com/pin/254101603967648855/](https://pin.it/1BO0uB3sz)">
+
 # 💫 About Me:
 🔭 I’m currently working on full-stack development<br>- 🌱 I’m currently learning  AI & Full-Stack Development<br>- 👯 I’m looking to collaborate on  full stack projects  <br>- 💬 Ask me about express, node.js, react   <br>- 📫 How to reach me pankhurikhurana23@gmail.com
 
