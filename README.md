@@ -3,7 +3,7 @@
   <img src="_.gif" alt="Banner" width="800" />
 </p>
 
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on full-stack development<br>
 🌱 I’m currently learning AI & Full-Stack Development<br>
 👯 I’m looking to collaborate on full stack projects<br>
